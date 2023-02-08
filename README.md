@@ -13,8 +13,8 @@ allure generate ./allure-results --clean (To generate allure reports)
 allure open ./allure-report (Opens the generated report in browser)
 
 Code-Coverage Plugin - Istanbul with Babel and below commands to be used to install the plugin
-// npm i -D @playwright/test babel-plugin-istanbul nyc
 
+// npm i -D @playwright/test babel-plugin-istanbul nyc
 
 // npm i -D playwright-test-coverage
 
