@@ -7,7 +7,9 @@ Below are the commands for thr step-by-step installation of the framework
 - Playwright Installation -   npm init playwright@latest
 - To run test-cases - npx playwright test
 
--- Allure Reporting Tool Installation - npm i -D @playwright/test allure-playwright
+-- Allure Reporting Tool Installation 
+- npm i -D @playwright/test allure-playwright
+
 To generate an allure report for the test-cases following commands to be used
 - npx playwright test --reporter=line,allure-playwright ( To run the tests)
 - allure generate ./allure-results --clean (To generate allure reports)
