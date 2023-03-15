@@ -35,3 +35,5 @@ Details on the Framework structure:
 
 -  playwright.config.ts : In this Config file, we are storing all the configuration with respect to framework like cross-bowser, cross-device and the timeouts for the application.
 
+For Multiple Environment Configuration; where we can run tests against Dev,QA. we can follow the below references for configuration
+https://github.com/PaladugulaSravanthi/UI_Automation_Playwright-typescript
